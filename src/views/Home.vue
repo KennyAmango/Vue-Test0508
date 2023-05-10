@@ -12,6 +12,7 @@ export default {
             homeInfo: {
                 title: "首頁",
                 content: "首頁內文"
+                // test
             }
         }
     },
